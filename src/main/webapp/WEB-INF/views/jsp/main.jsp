@@ -6,12 +6,12 @@
 
 <meta charset="UTF-8">
 <title>A PlusMall</title>
-<link rel="stylesheet" href="/resources/css/main.css">
-<link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="resources/css/main.css">
+<link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet"/>
 
 </head>
 <body>
-<div class="wrapper">
+
 	<div class="header_area">
 		<h1>header_area</h1>
 	</div>
@@ -25,6 +25,6 @@
 		<h1>footer_area</h1>
 	</div>
 	
-</div>
+
 </body>
 </html>

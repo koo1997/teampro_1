@@ -1,4 +1,4 @@
-package com.aplus.mall;
+package com.aplus.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
