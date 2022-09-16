@@ -11,3 +11,29 @@
 			url('./fonts/nanum-gothic-v21-latin_korean-regular.ttf') format('truetype'), /* Safari, Android, iOS */
 			url('./fonts/nanum-gothic-v21-latin_korean-regular.svg#NanumGothic') format('svg'); /* Legacy iOS */
         }
+*{
+	margin: 0;
+	padding:0;
+}
+.wrapper{
+	
+	
+	
+	
+}
+
+.header_area{
+	
+	background-color: red;
+	
+	
+}
+.navi_bar_area{
+	
+}
+.content_area{
+	
+}
+.footer_area{
+	
+}
