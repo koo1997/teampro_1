@@ -11,9 +11,13 @@
 
 </head>
 <body>
-
+<div class="wrapper">
 	<div class="header_area">
 		<h1>header_area</h1>
+		
+		<div class="icon">
+			<h1>Aplus</h1>
+		</div>
 	</div>
 	<div class= "navi_bar_area">
 		<h1>navi_area</h1>
@@ -25,6 +29,6 @@
 		<h1>footer_area</h1>
 	</div>
 	
-
+</div>
 </body>
 </html>
